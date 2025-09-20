@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fleury-v/react-intro/static/js/main.4826b131.js",
-    "index.html": "/fleury-v/react-intro/index.html",
-    "main.4826b131.js.map": "/fleury-v/react-intro/static/js/main.4826b131.js.map"
+    "main.js": "/react-intro/static/js/main.df56c87a.js",
+    "index.html": "/react-intro/index.html",
+    "main.df56c87a.js.map": "/react-intro/static/js/main.df56c87a.js.map"
   },
   "entrypoints": [
-    "static/js/main.4826b131.js"
+    "static/js/main.df56c87a.js"
   ]
 }
