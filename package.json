@@ -2,7 +2,7 @@
   "name": "react-intro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/fleury-v/react-intro",
+  "homepage": "https://fleury-v.github.io/react-intro",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
