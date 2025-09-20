@@ -1,11 +1,10 @@
-import { Greetings } from "./Greetings"
+import { Greetings } from "./Greetings";
 
 export function App() {
   return (
-  <div>
-    <Greetings />
-    <input type="text" /> 
-    <button> Submit </button>
-  </div>
-  )
+    <div>
+      <h1> Hello my dear friend !</h1>
+      <Greetings />
+    </div>
+  );
 }
