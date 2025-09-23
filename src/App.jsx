@@ -10,7 +10,7 @@ export function App(number) {
   return (
     <>
       <div>
-        Je suis une {"<App />"}
+        Je suis LA {"<App />"}
         <Car onCarClick={hello} />
       </div>
     </>
