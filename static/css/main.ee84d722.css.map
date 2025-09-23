@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ee84d722.css","mappings":"AACA,EACE,aACF,CAEA,KAGE,qBAAsB,CAFtB,YAAa,CACb,WAEF,CAEA,MACE,gBACF","sources":["style.css"],"sourcesContent":["\r\np {\r\n  color: rgb(98, 48, 48);\r\n}\r\n\r\n.box {\r\n  height: 100px;\r\n  width: 100px;\r\n  background-color: blue;\r\n}\r\n\r\n.box2 {\r\n  border: 5px solid;\r\n} "],"names":[],"sourceRoot":""}
