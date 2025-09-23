@@ -1,10 +1,18 @@
-import { Greetings } from "./Greetings";
+import { Car } from "./components/Car/Car";
+// import { Greetings } from "./components/Greetings/Greetings";
+import "./style.css";
 
-export function App() {
+export function App(number) {
+
+  function hello() {
+    alert("Hello de <App /> " + number)
+  }
   return (
-    <div>
-      <h1> Hello my dear friend !</h1>
-      <Greetings />
-    </div>
+    <>
+      <div>
+        Je suis une {"<App />"}
+        <Car onCarClick={hello} />
+      </div>
+    </>
   );
 }
