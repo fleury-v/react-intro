@@ -1,0 +1,14 @@
+
+p {
+  color: rgb(98, 48, 48);
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+
+.box2 {
+  border: 5px solid;
+} 
